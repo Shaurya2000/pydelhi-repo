@@ -1,0 +1,12 @@
+class java code2
+{
+void javacode2
+{
+import java.io;
+BufferedReader br= new BufferedReader(new InputStreamReader(System.in())
+a=br.readLine();
+b=br.readLine();
+c=a+b;
+system.out.println(c);
+}
+}
