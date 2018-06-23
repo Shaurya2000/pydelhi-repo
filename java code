@@ -1,0 +1,7 @@
+class shaurya{
+void dr(int a, intb)
+c= a+b;
+system.out.println(c);
+}
+}
+
